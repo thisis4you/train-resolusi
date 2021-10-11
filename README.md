@@ -1,2 +1,4 @@
-# train-resolusi
-Repository untuk meyimpan pembelajaran Saya kedepan
+Train RESOLUSI
+- Konsisten untuk membuat konten 2x seminggu (tutor)
+- Membuat platform untuk pengelolaan video (tutor)
+- Membuat forum diskusi (tutor)
